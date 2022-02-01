@@ -1,2 +1,1 @@
-# TinDog-Bootstrap-Lesson
-Learning how to build with Bootstrap 4
+TinDog Starting Files
